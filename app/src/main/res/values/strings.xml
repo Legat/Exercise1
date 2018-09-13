@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="greeting">Type your message here..</string>
+    <string name="preview">Preview</string>
+    <string name="email">Email</string>
+    <string name="acdemymail" translatable="false">andr.academy.msk@gmail.com</string>
+    <string name="subject">Hello, Android Acdemy Msk</string>
+    <string name="emptymsg">Please enter some message!</string>
+    <string name="emailNotfound">There are not mail app found</string>
+</resources>

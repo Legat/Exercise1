@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Упражнение1</string>
+    <string name="greeting">Пожалуйста введите сообщение</string>
+    <string name="preview">Превью</string>
+    <string name="email">Емэйл</string>
+    <string name="subject">Привет, Московская Андроид академия</string>
+    <string name="emptymsg">Пожалуйста введите сообщение</string>
+    <string name="emailNotfound">Ни одного приложения не найдено</string>
+</resources>
